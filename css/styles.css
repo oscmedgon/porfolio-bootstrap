@@ -1,0 +1,54 @@
+body {
+  background-color: #ededed; }
+
+.content-container {
+  max-width: 95%; }
+
+.img-header {
+  position: absolute;
+  top: 10px;
+  width: 100%; }
+  .img-header img {
+    display: block;
+    margin: 0 auto; }
+
+header {
+  text-align: center; }
+
+.porfolio-content {
+  margin-top: 100px;
+  padding-top: 100px;
+  background-color: #FFF;
+  border: 1px solid grey; }
+  .porfolio-content .name-highlighted {
+    color: #3B5A76; }
+  .porfolio-content h2 {
+    padding-top: 30px;
+    padding-bottom: 15px;
+    color: #3B5A76;
+    font-weight: bold; }
+  .porfolio-content .contact-icon {
+    margin-right: 15px; }
+  .porfolio-content .contact-list li {
+    padding: 5px 0; }
+  .porfolio-content .experience-info div.experience-content {
+    background-color: darkgrey;
+    margin: 10px 0px; }
+
+.alert {
+  font-weight: bold; }
+
+.recent-jobs {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: 20px; }
+
+footer {
+  padding: 20px;
+  background-color: #3B5A76;
+  color: white;
+  font-size: 17px;
+  font-weight: bold; }
+
+/*# sourceMappingURL=styles.css.map */
